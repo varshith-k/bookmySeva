@@ -6,6 +6,9 @@ body {
     font-family: "Lucida Console", Times, serif;
     text-align: center;
   }
+  li{
+    font-size: medium;
+  }
   
   p.one {
     border: 5px solid white;
@@ -26,7 +29,7 @@ body {
   }
   
   a {
-    color: black;
+    color: #000;
   }
   .gray-text {
     color: white;
@@ -71,10 +74,10 @@ body {
     padding-top: 10px;
   }
   .navbar-header {
-    padding-left: 10%;
+    padding-left: 45%;
   }
   .navbar-right {
-    padding-right: 10%;
+    padding-right: 1%;
   }
   
   .home {
