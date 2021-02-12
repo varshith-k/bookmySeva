@@ -6,9 +6,6 @@ body {
     font-family: "Lucida Console", Times, serif;
     text-align: center;
   }
-  li{
-    font-size: medium;
-  }
   
   p.one {
     border: 5px solid white;
@@ -29,7 +26,7 @@ body {
   }
   
   a {
-    color: #000;
+    color: black;
   }
   .gray-text {
     color: white;
@@ -74,10 +71,10 @@ body {
     padding-top: 10px;
   }
   .navbar-header {
-    padding-left: 45%;
+    padding-left: 10%;
   }
   .navbar-right {
-    padding-right: 1%;
+    padding-right: 10%;
   }
   
   .home {
@@ -86,7 +83,7 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("https://helpr.in/blog/wp-content/uploads/2016/09/living-1032733_960_720.jpg");
+    background-image: url("https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-size: cover;
   }
   .why {
