@@ -15,6 +15,7 @@ body {
     text-shadow: 5px 3px black;
     text-align: center;
   }
+  /*Adding @media rule for content*/
   p.one {
     color: rgb(252, 252, 252);
     border: 5px solid rgb(240, 250, 249);
@@ -23,7 +24,7 @@ body {
     font-size:33px;
     font-family: Helvetica, sans-serif; 
     text-align: center;
-    text-shadow: 2px 3px rgb(65, 35, 71)
+    text-shadow: 2px 3px rgb(65, 35, 71);
   }
   .button {
     padding: 10px 30px;
@@ -130,11 +131,11 @@ body {
     border: 2px solid white;
   }
   .content {
-    max-width: 872px;
-    margin-top: 37px;
-    margin-left: 503px;
-    margin-right: 503px;
-    margin-bottom: 32px;
+    max-width: 47.28%;
+    margin-top: 2.05%;
+    margin-left: 27.5%;
+    margin-right: 27.5%;
+    margin-bottom: 2.05%;
     border: 2px solid rgba(36, 36, 36, 0.993);
     background: rgba(128, 128, 128, 0.411);
     padding: 2px;
@@ -167,7 +168,9 @@ body {
     color: #000;
     background-image: url("https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-size: cover;
-    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
   .why {
     min-height: 100vh;
@@ -176,6 +179,8 @@ body {
     color: #000;
     background-image: url("http://backgroundscreeningcompanies.com/images/About-US-INSIDE-page-photo.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
   }
   
   .how {
