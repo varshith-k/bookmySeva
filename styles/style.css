@@ -2,14 +2,14 @@ body {
     position: relative;
   }
   h1{
-    font-family: 'Lucida Casual', 'Comic Sans MS'; 
+    font-family:'Times New Roman', Times, serif; 
     font-size: 52px; 
     letter-spacing: 3px;
     text-shadow: 5px 3px black;
     text-align: center;
   }
   h2{
-    font-family: 'Lucida Casual', 'Comic Sans MS';  
+    font-family:'Times New Roman', Times, serif; 
     font-size: 49px; 
     letter-spacing: 3px;
     text-shadow: 5px 3px black;
