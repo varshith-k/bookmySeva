@@ -1,8 +1,12 @@
 # bookmySeva
 WEB APPLICATION DEVELOPMENT PROJECT(bookmySeva)
+
 SEM-04 
+
 UG-02
+
 IIITS
+
 Total Duration of the project : 5 months (approx.)
 
 Group No.  : 26
