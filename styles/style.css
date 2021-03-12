@@ -166,7 +166,7 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-image: url("images/home-image.jpeg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -177,10 +177,11 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("http://backgroundscreeningcompanies.com/images/About-US-INSIDE-page-photo.jpg");
+    background-image: url("images/hand-shake.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-position: center center;
   }
   
   .how {
@@ -188,8 +189,11 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("http://pre04.deviantart.net/1632/th/pre/i/2011/022/1/e/__damask_pattern_wallpaper_2___by_ra3iiskyline-d37r809.jpg");
+    background-image: url("images/wallpaper.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
   
   .projects {
@@ -197,8 +201,11 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/e7/33/67e733979db4855c1244aaff3bc14c82.jpg");
+    background-image: url("images/dark-bg.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
   
   .experience {
@@ -206,16 +213,22 @@ body {
     padding-top: 10%;
     padding-bottom: 10%;
     color: #000;
-    background-image: url("http://img00.deviantart.net/4f2b/i/2011/022/1/e/__damask_pattern_wallpaper_2___by_ra3iiskyline-d37r809.jpg");
+    background-image: url("images/wallpaper.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
   
   .contact {
-    min-height: 90vh;
+    min-height: 100vh;
     padding-top: 10%;
     padding-bottom: 50px;
     color: #000;
-    background-image: url("http://budgetbailbondswa.com/wp-content/uploads/2016/04/Contact-Us.png");
+    background-image: url("images/contact-us.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
   
