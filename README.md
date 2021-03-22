@@ -21,3 +21,11 @@ Contact details :
 IDEA OF THE PROJECT :
 Our team endeavours to provide a web application which will be predominantly service oriented and aimed at making the basic services of humans available at one click.
 
+
+Used in our Project :
+--------- 
+=> Bootstrap : http://getbootstrap.com/
+=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
+=> Fonts : https://www.google.com/fonts
+=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
+=> Carousel : http://owlgraphic.com/owlcarousel/
