@@ -10,8 +10,8 @@
   font-display: block;
 }
 
-[class^="icon-"],
-[class*=" icon-"] {
+[class^="icon-moon"],
+[class*=" icon-moon"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "icomoon" !important;
   speak: never;
@@ -26,28 +26,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-logo_font:before {
+.icon-moonlogo_font:before {
   content: "\e901";
   font-size: 200px;
   justify-content: center;
   display: flex;
   padding-bottom: 4px;
 }
-.icon-home_cleaning:before {
+.icon-moonhome_cleaning:before {
   content: "\e900";
   font-size: 48px;
   justify-content: center;
   display: flex;
   color: rgb(249, 91, 84);
 }
-.icon-plumber:before {
+.icon-moonplumber:before {
   content: "\e902";
   color: #6495ed;
   font-size: 48px;
   justify-content: center;
   display: flex;
 }
-.icon-user:before {
+.icon-moonuser:before {
   content: "\e903";
   font-size: 48px;
   justify-content: center;
@@ -55,7 +55,7 @@
   color: #5a5a54;
   opacity: 200%;
 }
-.icon-power:before {
+.icon-moonpower:before {
   content: "\e9b5";
   font-size: 48px;
   justify-content: center;
