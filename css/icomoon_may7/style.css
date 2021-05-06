@@ -1,0 +1,214 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?x9i5se");
+  src: url("fonts/icomoon.eot?x9i5se#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?x9i5se") format("truetype"),
+    url("fonts/icomoon.woff?x9i5se") format("woff"),
+    url("fonts/icomoon.svg?x9i5se#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-moon"],
+[class*=" icon-moon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-moon-tutors:before {
+  content: "\e904";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(218, 220, 210);
+}
+
+.icon-moon-tutors_big:before {
+  content: "\e904";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(218, 220, 210);
+}
+
+.icon-moon-handyman:before {
+  content: "\e905";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(153, 102, 0);
+}
+.icon-moon-handyman_big:before {
+  content: "\e905";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(153, 102, 0);
+}
+.icon-moon-local_food:before {
+  content: "\e906";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(136, 137, 131);
+}
+.icon-moon-local_food_big:before {
+  content: "\e906";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  /* color: rgb(249, 91, 84); */
+}
+.icon-moon-techie:before {
+  content: "\f1b6";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(0, 0, 153, 0.6);
+}
+.icon-moon-techie_big:before {
+  content: "\f1b6";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(0, 0, 153, 0.6);
+}
+.icon-moon-mechanic:before {
+  content: "\f21c";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(255, 248, 220);
+}
+.icon-moon-mechanic_big:before {
+  content: "\f21c";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(255, 248, 220);
+}
+.icon-logo_font_3:before {
+  content: "\1f311";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  /* color: rgb(249, 91, 84); */
+}
+.icon-moonlogo_font:before {
+  content: "\e901";
+  font-size: 200px;
+  justify-content: center;
+  display: flex;
+  padding-bottom: 4px;
+}
+.icon-moonhome_cleaning:before {
+  content: "\e900";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(249, 91, 84);
+}
+.icon-moonhome_cleaning_big:before {
+  content: "\e900";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(249, 91, 84);
+}
+.icon-moonplumber:before {
+  content: "\e902";
+  color: #6495ed;
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+}
+.icon-moonplumber_big:before {
+  content: "\e902";
+  color: #6495ed;
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+}
+.icon-moonuser:before {
+  content: "\e903";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: #5a5a54;
+  opacity: 200%;
+}
+.icon-moonuser_big:before {
+  content: "\e903";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: #5a5a54;
+  opacity: 200%;
+}
+.icon-moon-painter:before {
+  content: "\e90c";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(102, 224, 255);
+}
+.icon-moon-painter_big:before {
+  content: "\e90c";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(102, 224, 255);
+}
+.icon-moon-packers:before {
+  content: "\e9b0";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  /* color: rgb(249, 91, 84); */
+}
+.icon-moon-packers_big:before {
+  content: "\e9b0";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  /* color: rgb(249, 91, 84); */
+}
+.icon-moonpower:before {
+  content: "\e9b5";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(237, 251, 5, 0.8);
+}
+.icon-moonpower_big:before {
+  content: "\e9b5";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  color: rgb(237, 251, 5, 0.8);
+}
+.icon-moon-salon:before {
+  content: "\ea5a";
+  font-size: 48px;
+  justify-content: center;
+  display: flex;
+  color: rgb(0, 0, 0, 0.5);
+}
+.icon-moon-salon_big:before {
+  content: "\ea5a";
+  font-size: 100px;
+  justify-content: center;
+  display: flex;
+  /* color: rgb(249, 91, 84); */
+}
