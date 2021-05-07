@@ -24,23 +24,23 @@
     <body style="margin: 0%">
       <section>
       <header class="" style="background-color: #2A5271;">
-        <a class="brand_icon" href="index.html" style="text-decoration: none;position: relative;
+        <a class="brand_icon" href="{% url 'index' %}" style="text-decoration: none;position: relative;
         left: -3%;">
           <i class="icon-moonlogo_font"></i>
           <!-- <img src="./logo.png" alt="" style="width: 30%;height: auto;"> -->
         </a>
         
         <div class="menu">
-          <a href="about.html"
+          <a href="{% url 'about' %}"
             >About Us</a
           >
-          <a href="service.html"
+          <a href="{% url 'service' %}"
             >Services</a
           >
-          <a href="pricing.html"
+          <a href="{% url 'pricing' %}"
             >Register as a Professional</a
           >
-          <a href="contact.html"
+          <a href="{% url 'contact' %}"
             >Contact Us</a
           >
         </div>
@@ -52,6 +52,9 @@
       <section class="section-main">
           <div class="contact">
             <div class="info">
+              <h2>
+                Have something in mind ? Get it done down to your lowest priorities from trained professionals !
+              </h2>
             </div>
           </div>
       </section>

@@ -193,7 +193,16 @@ p {
   position: relative;
   background-image: url("https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-size: cover;
-  margin-bottom: -14%;
+  margin-bottom: -16%;
+}
+
+.contact .info h2 {
+  position: absolute;
+  text-align: center;
+  word-spacing: 2px;
+  top: 34%;
+  left: 50%;
+  transform: translate(-50%, -40%);
 }
 
 .img-slider .e.slide.active {
